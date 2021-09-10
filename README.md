@@ -21,7 +21,7 @@ The replace() method can take maximum of 3 parameters:
  (*) new - new substring which will replace the old substring
  (*) count (optional) - the number of times you want to replace the old substring with the new substring                          
 
-                        (*) Note: If count is not specified, the replace() method replaces all occurrences of the old substring with the new substring.
+                        Note: If count is not specified, the replace() method replaces all occurrences of the old substring with the new substring.
               
 # replace() Return Value
 The replace() method returns a copy of the string where the old substring is replaced with the new substring. The original string is unchanged.
